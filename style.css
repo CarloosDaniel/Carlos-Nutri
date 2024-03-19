@@ -1,0 +1,15 @@
+body{
+    background: rgba(28, 248, 8, 0.774);
+}
+
+#pao{
+    width: 250px;
+}
+
+#frutas{
+    width: 250px;
+}
+table{
+    color: white;
+    background-color: orangered;
+}
